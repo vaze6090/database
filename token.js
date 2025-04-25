@@ -1,7 +1,6 @@
 {
   "tokens": [
     "7919700628:AAGhw8ERgBQca-cyxxyZz0janS_3rN-3CE4",
-    "8023128397:AAGdvP7ymyL60q5Q6eHOLlK9Igt9cl9TdYE",
     "7941816985:AAFWI6dOvTh5fIAE4ygzHCG5PdnKqth2wdU",
     "7781720525:AAHk7ypoDP8BmKEqSoeN0XjlLlWvqAiKZvg",
     "7720165909:AAG9gKhdd7Jl6y34ucm1umty68-zSJkJtj8",
