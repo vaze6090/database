@@ -11,6 +11,7 @@
     "7464524196:AAHpMfEgZMdbkJfQ54xO9L-nTMgvafS7Yas",
     "7768281865:AAHXYavFE3V0UBbVQ1zWNBoqZsjcbacIw-U",
     "7395975910:AAEyKb2_MyenlEB5zEueb6cAG6cRpSABDu8",
-    "8198064264:AAGGcpNWchbwzDkO9dmuYcYaWlXc_rTFdiU"
+    "8198064264:AAGGcpNWchbwzDkO9dmuYcYaWlXc_rTFdiU", 
+    "8134673811:AAGl7TzqsHMGCRddwaXhpUOF-rEvrlM2dxg", 
   ]
 }
